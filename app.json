@@ -1,0 +1,21 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "env": {
+  },
+  "formation": {
+    "bot": {
+      "quantity": 1
+    }
+  },
+  "name": "ttrp",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
